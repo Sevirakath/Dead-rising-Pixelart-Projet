@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Players: MonoBehaviour
+public class Players : MonoBehaviour
 {
     Rigidbody2D rb;
     SpriteRenderer sr;
@@ -51,7 +51,5 @@ public class Players: MonoBehaviour
         Vector2 target_velocity = new Vector2(horizontal_value * moveSpeed_horizontal * Time.fixedDeltaTime, rb.velocity.y);
         rb.velocity = Vector2.SmoothDamp(rb.velocity, target_velocity, ref ref_velocity, 0.05f);
     }
-    {
-    Ontriggerenter
 }
 
