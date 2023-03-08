@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: d4c87f79d522eb845aa8aca0f520629e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1926
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42186f43fae8de488737054d954aa63
+      internalID: 911214607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1926
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43732ea7d43420346af288a441afcfa2
+      internalID: 873174211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1926
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e9f36a86705545911b18605066c0e
+      internalID: -1787010758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1926
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4b84bb6bb16fe499946298fa44f26b
+      internalID: -1487676564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_4
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1926
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bcb6a56d8db4c4d9708ef5e6b31e66
+      internalID: 454897665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_5
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1926
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9184727059add154ca63e0b814605592
+      internalID: -608540723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_6
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1926
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2662bda39ec610e4e9e6159af620e891
+      internalID: 1790957370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_7
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1926
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789ae92e941a0ea4880c6e3a21ff4ba9
+      internalID: -617682200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_8
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1926
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772642a3476a632469320de32f49a52f
+      internalID: -799241261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1605
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a5fc78984fd49439e53be909eecdc8
+      internalID: -1798900601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1605
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe5464de6d37574b8e5c42d141b21ed
+      internalID: 1350016094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1605
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665d761d458ea1f439b05fd963cf5174
+      internalID: 1514540187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_12
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1605
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f816c285a623645af36ab1d9fccb9b
+      internalID: 950608408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_13
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1605
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d55dacb8ff78445b1856f776cacb90
+      internalID: 557992226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_14
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1605
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1335716c2628ec54e818f47d78a8e690
+      internalID: -1185170050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_15
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1605
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9229665a39a90b7429b44e26889bc001
+      internalID: -2059731548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_16
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1605
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fcb6e28ec33584db4120210eeef38c
+      internalID: 684277690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_17
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1605
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc1181fa36d4344bfe2b065fb3aa2b
+      internalID: 1861640260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de0378f9c334bc499d3aedd49c49fb8
+      internalID: 1061914240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1284
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db17aed6b66f79e4d963fef7183f5a9c
+      internalID: 2030981994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1284
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8349cbf06906aa74786d2d1c3cf868ba
+      internalID: 1910519038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_21
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1284
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c6b6a6650809b4699125dea99ef9f8
+      internalID: 1541911889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_22
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1284
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa677b2bf0a3264f9dc742c879a48f7
+      internalID: -1926874878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_23
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1284
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadf255857b130d4b9fa36d632f39538
+      internalID: 191628307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_24
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1284
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba2946a093ebb242b86008ded9ebc8c
+      internalID: 1828936768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_25
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1284
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f923d63f68b760e49aceeef0fabd65c2
+      internalID: -1020840329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_26
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1284
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af25c7f868ac2ce4bacf0da0586c13d7
+      internalID: -1082334010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 963
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25066b6aa573b004684c9a1b99c6c5ec
+      internalID: -1763689433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 963
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07614e08960546a41b739e62fec31fde
+      internalID: -2058931125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_29
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 963
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5831e8f8cfdc664a8f125e6224e2bcc
+      internalID: -675256038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_30
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 963
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17615e0dcd3e62a4cb7b96c4da907136
+      internalID: -861980880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_31
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 963
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de255b37d0b67040856584f3de082c0
+      internalID: 278555020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_32
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 963
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7586973013309504a8f8a4387c15f35a
+      internalID: -1066443137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_33
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 963
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89341b3d5f22d994ba7cf514a6ec04a2
+      internalID: -745684304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_34
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 963
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025782710518666449769295012da014
+      internalID: 1858336836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_35
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 963
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd2b72fb9084cd43818525c7bf31f46
+      internalID: 1836870091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba242064c82dc74e810f5281fd4e940
+      internalID: -1003797037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_37
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 642
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b98d8042ff1ef04c97671613c2f3f5e
+      internalID: 58199676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_38
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 642
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56be995649ac745a9baa3b861421f2
+      internalID: -1414837361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_39
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 642
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92238796802f26439606a54aad15447
+      internalID: -158483689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_40
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 642
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8dcb8ee703fa640840a3c303061068
+      internalID: 963835636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_41
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 642
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cc998ae3b8e444f9bd6e0205af5a86
+      internalID: -2107474717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_42
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 642
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c27fe5e9cb429418ee4a7465cfe3b5
+      internalID: 1247969133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_43
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 642
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a599a1372bfcf1428e176b6a53e48b9
+      internalID: -1033138982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_44
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 642
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe0df747e9db384482f4448a2337844
+      internalID: -1063450672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ee1538775f9bb45968cb8b263a343b
+      internalID: -1615885076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 321
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6a372ee00530c46a0ddf82279dcd10
+      internalID: -697910165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_47
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 321
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefe4a68f156a0b46be04f5e2579f0f2
+      internalID: 1733119157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_48
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 321
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97654da7a62019a44a20d5120bae1381
+      internalID: 1062295115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_49
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 321
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ea3b01c54998e479795af74ad4ecd5
+      internalID: -1781931187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_50
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 321
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4733b3bde39c35438ddc7f3b18c000d
+      internalID: 2095165776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_51
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 321
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13e836e5a0be2046a1d25ac894f74e0
+      internalID: 1524487962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_52
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 321
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2583c9a2077e3ae45b53f2d044fbccbf
+      internalID: 1660128575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_53
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 321
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94437e432503d5409682d107299272a
+      internalID: 1985955792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a714d644bbf72514cbe5d18641759667
+      internalID: -1804877407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_55
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4c65d1ecb9ef74c94c3af965b70f97
+      internalID: -494250818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_56
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618a41ef0bb4cea46afdd9e72f27f067
+      internalID: -1850115006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_57
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca91552250d76545b3271cc4817ea5a
+      internalID: -408949059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_58
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51691ca4148a2914b8eb67e924353dfc
+      internalID: -176997219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_59
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c912b3fd22b75146934fadae017f71c
+      internalID: 1612263955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_18: 1061914240
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_3: -1487676564
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_19: 2030981994
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_53: 1985955792
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_1: 873174211
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_51: 1524487962
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_24: 1828936768
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_2: -1787010758
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_17: 1861640260
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_23: 191628307
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_34: 1858336836
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_14: -1185170050
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_42: 1247969133
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_9: -1798900601
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_20: 1910519038
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_8: -799241261
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_5: -608540723
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_29: -675256038
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_4: 454897665
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_15: -2059731548
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_6: 1790957370
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_57: -408949059
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_36: -1003797037
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_39: -158483689
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_48: 1062295115
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_26: -1082334010
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_22: -1926874878
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_21: 1541911889
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_27: -1763689433
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_50: 2095165776
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_37: 58199676
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_30: -861980880
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_13: 557992226
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_43: -1033138982
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_58: -176997219
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_56: -1850115006
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_32: -1066443137
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_41: -2107474717
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_59: 1612263955
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_0: 911214607
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_25: -1020840329
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_40: 963835636
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_54: -1804877407
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_7: -617682200
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_44: -1063450672
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_45: -1615885076
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_16: 684277690
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_12: 950608408
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_35: 1836870091
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_33: -745684304
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_52: 1660128575
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_28: -2058931125
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_46: -697910165
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_10: 1350016094
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_55: -494250818
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_47: 1733119157
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_11: 1514540187
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_38: -1414837361
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_49: -1781931187
+      Falmme supra cool des morts de max emilien le beaugosse del a terre_211x321_31: 278555020
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
