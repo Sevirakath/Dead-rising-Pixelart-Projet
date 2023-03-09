@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 237cce0c4c965f24b9f2ca4a4f35c529
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1374
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fbabe021f3f0f43904d791aab70f5c
+      internalID: -1514046806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1374
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5620010cad3e048919e70c89e7ab16
+      internalID: 938057085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1374
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78e22bf49feef04a856fe0497b1da1f
+      internalID: -1135597180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1374
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b933304ff378d41959aaa2a398b004
+      internalID: 259161371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1374
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8d8f54deea92a479553f319e813397
+      internalID: 603092014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_5
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1374
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d589f98bac9f63542a75039932b67b05
+      internalID: -1801157550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_6
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1374
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985d4ca1b54243540b14012482889c89
+      internalID: -1591607930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_7
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1374
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf006dc72a403044e8bfa12fc73c6dc0
+      internalID: -638411964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_8
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1374
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8a71a3238b80a42addc2ddcb989283
+      internalID: -659833618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1145
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c214bfa5097749af1fefb8971419d
+      internalID: -447500731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1145
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb1659b8c64bdd42bb8f434d3cd6808
+      internalID: -1470281440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1145
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc075339fcc3494449a8c2ff0fa4fdc6
+      internalID: -101190537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_12
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1145
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4bd9eb721cc144691bb769b892bf76
+      internalID: -1147090469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_13
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1145
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb71f14c7b3e5ad4a8dff0e105121a51
+      internalID: 723788193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_14
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1145
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d31ec714fa966488d977bc29280740
+      internalID: -1902053123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_15
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1145
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d9df811f747de49b13e461cdc2392b
+      internalID: 672278347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_16
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1145
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ac163fcd9d5364fb431000d11860db
+      internalID: -801504138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_17
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1145
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3ca1caf07870f418924723829cd900
+      internalID: -1938400445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea30b7970c4b8f41b8012e5293adab8
+      internalID: 764624912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 916
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56479575b679054ead68734e57da9f1
+      internalID: -1060427948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_20
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 916
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5f5f1c8fdf14244b02a9b16bf7d3ef
+      internalID: 831751859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_21
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 916
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c842e5dd98c6704ba076fd03a0f6656
+      internalID: 1888698963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_22
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 916
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d88787d7af0d747b16233e18662b65
+      internalID: -1065999394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_23
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 916
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c9b77f8dbaf2244971bb437ceac667
+      internalID: 2022393502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_24
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 916
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eecc92742c81f4c89f8df9631b15c8
+      internalID: 2096943141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_25
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 916
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d529caf381932445aed859970c941a1
+      internalID: -809299337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_26
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 916
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6e8ed576cf4b7418a5a84a2583edbf
+      internalID: -396951343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e773decf9a10a1249815640cdc6e3e08
+      internalID: -100810289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_28
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 687
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcf94264f0a5ca4fbfea4182d2f2ec1
+      internalID: 267794698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_29
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 687
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725226bca24241b4ba23ddc0ee508e1d
+      internalID: 243230288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_30
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 687
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52351f4cc61d4574196d2b7b0d339549
+      internalID: 1409579912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_31
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 687
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1db50b4288ee244499c12c66217a245
+      internalID: -1368798839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_32
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 687
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dd7ef60c18c004391c11ea0f9b2441
+      internalID: 688413249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_33
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 687
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6d390496828304f8baec4d89233069
+      internalID: 1069195101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_34
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 687
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22ee28529638fe41943a5e392ced5a0
+      internalID: -593594849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_35
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 687
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c76cd8c522cc61429da795a54c19e39
+      internalID: -1328892191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29476c50fc79694e80f72150ac0e343
+      internalID: 422415988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_37
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 458
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fe05a928b44cf4d93088b78645a6cb
+      internalID: 501325769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_38
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 458
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6511531ad3e9d8468727337f348ca26
+      internalID: 2131117815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_39
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 458
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ba0fa208f40a145a2b1faf6f30757c
+      internalID: -1126438886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_40
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 458
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82f09d357713eb4d8d47df3c16406af
+      internalID: 1830605156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_41
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 458
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d6cec086b749844a78ed4cd0c64b3a
+      internalID: 1071143579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_42
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 458
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a12256dc6c2d684d8ee6e612646018b
+      internalID: 354702847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_43
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 458
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688ce2b60d52744489c6341e5538f7c6
+      internalID: 1048433107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_44
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 458
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39533c6a7bb5c6e489b245c69055aa61
+      internalID: -210672911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eb816f32e8f20469250d4f9094669a
+      internalID: 1854341359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 229
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac570c35aa184245813421591ac3bc2
+      internalID: 848752528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_47
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 229
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f4c5f50bf2fa14dbfdb38bb92c2d42
+      internalID: 1672924994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_48
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 229
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549fd388209717d4abaf844cb0c25c89
+      internalID: -1629036558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_49
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 229
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285105ce1cb92fe44869ad26d8690ac4
+      internalID: 2143181522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_50
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 229
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c34a7965194ee4f9de9649564e6a50
+      internalID: 89957999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_51
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 229
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb497836ca2f274483996056d45607b
+      internalID: -96787799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_52
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 229
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eef8d07afd7bd3408bd710eebc4ee60
+      internalID: 73672465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_53
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 229
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9a4337ab83fb84bb3b742685f11ec0
+      internalID: 1856207001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec5d046f6d84824db85689b20ff4bcc
+      internalID: -311122661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_55
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3a7d1e3dc41a643b71093e6cf80e2a
+      internalID: 1752718409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_56
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107b4acc6bac6d448a9c5216c2dcf44
+      internalID: -44512079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_57
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d6e11b18eb83542a04d043b578c6de
+      internalID: -357584667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_58
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810f25c3d0492f044a476a993ceb9aeb
+      internalID: -984356654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme Pixelart_189x229_59
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f8dc82e939ba14ba35b78fb39303e3
+      internalID: 1043920392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Flamme Pixelart_189x229_2: -1135597180
+      Flamme Pixelart_189x229_25: -809299337
+      Flamme Pixelart_189x229_23: 2022393502
+      Flamme Pixelart_189x229_54: -311122661
+      Flamme Pixelart_189x229_40: 1830605156
+      Flamme Pixelart_189x229_18: 764624912
+      Flamme Pixelart_189x229_13: 723788193
+      Flamme Pixelart_189x229_47: 1672924994
+      Flamme Pixelart_189x229_52: 73672465
+      Flamme Pixelart_189x229_7: -638411964
+      Flamme Pixelart_189x229_34: -593594849
+      Flamme Pixelart_189x229_55: 1752718409
+      Flamme Pixelart_189x229_56: -44512079
+      Flamme Pixelart_189x229_12: -1147090469
+      Flamme Pixelart_189x229_33: 1069195101
+      Flamme Pixelart_189x229_20: 831751859
+      Flamme Pixelart_189x229_32: 688413249
+      Flamme Pixelart_189x229_11: -101190537
+      Flamme Pixelart_189x229_24: 2096943141
+      Flamme Pixelart_189x229_42: 354702847
+      Flamme Pixelart_189x229_44: -210672911
+      Flamme Pixelart_189x229_51: -96787799
+      Flamme Pixelart_189x229_43: 1048433107
+      Flamme Pixelart_189x229_39: -1126438886
+      Flamme Pixelart_189x229_0: -1514046806
+      Flamme Pixelart_189x229_59: 1043920392
+      Flamme Pixelart_189x229_46: 848752528
+      Flamme Pixelart_189x229_17: -1938400445
+      Flamme Pixelart_189x229_16: -801504138
+      Flamme Pixelart_189x229_38: 2131117815
+      Flamme Pixelart_189x229_6: -1591607930
+      Flamme Pixelart_189x229_37: 501325769
+      Flamme Pixelart_189x229_41: 1071143579
+      Flamme Pixelart_189x229_48: -1629036558
+      Flamme Pixelart_189x229_31: -1368798839
+      Flamme Pixelart_189x229_36: 422415988
+      Flamme Pixelart_189x229_4: 603092014
+      Flamme Pixelart_189x229_58: -984356654
+      Flamme Pixelart_189x229_14: -1902053123
+      Flamme Pixelart_189x229_57: -357584667
+      Flamme Pixelart_189x229_19: -1060427948
+      Flamme Pixelart_189x229_5: -1801157550
+      Flamme Pixelart_189x229_3: 259161371
+      Flamme Pixelart_189x229_49: 2143181522
+      Flamme Pixelart_189x229_53: 1856207001
+      Flamme Pixelart_189x229_28: 267794698
+      Flamme Pixelart_189x229_21: 1888698963
+      Flamme Pixelart_189x229_15: 672278347
+      Flamme Pixelart_189x229_35: -1328892191
+      Flamme Pixelart_189x229_10: -1470281440
+      Flamme Pixelart_189x229_22: -1065999394
+      Flamme Pixelart_189x229_26: -396951343
+      Flamme Pixelart_189x229_45: 1854341359
+      Flamme Pixelart_189x229_8: -659833618
+      Flamme Pixelart_189x229_30: 1409579912
+      Flamme Pixelart_189x229_50: 89957999
+      Flamme Pixelart_189x229_27: -100810289
+      Flamme Pixelart_189x229_29: 243230288
+      Flamme Pixelart_189x229_1: 938057085
+      Flamme Pixelart_189x229_9: -447500731
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
