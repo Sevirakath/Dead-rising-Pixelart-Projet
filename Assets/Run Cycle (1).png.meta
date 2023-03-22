@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6256f00cd9a5e9247a4fa9f397221d02
+guid: 9b9b44ee0b1af4342b2a0546d2db485a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: run cycle sheet 1_0
+      name: Run Cycle (1)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -113,20 +113,20 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94bc782941ea6394eb5156066d3c67cf
-      internalID: 8735777
+      spriteID: 1f9026e48f709d24fa434522b278ebbd
+      internalID: 433310461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: run cycle sheet 1_1
+      name: Run Cycle (1)_1
       rect:
         serializedVersion: 2
         x: 64
@@ -134,20 +134,20 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d6fee9b4a97dad4fbc5be7b42977730
-      internalID: 464685051
+      spriteID: 3d3b4d11d879d224fa47f928ceed0422
+      internalID: 435051861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: run cycle sheet 1_2
+      name: Run Cycle (1)_2
       rect:
         serializedVersion: 2
         x: 128
@@ -155,20 +155,20 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13b52b20f072a844083d3443d219fde5
-      internalID: 302367087
+      spriteID: 629bffa28a62c5d4ea56bdc557973a2c
+      internalID: -1324667691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: run cycle sheet 1_3
+      name: Run Cycle (1)_3
       rect:
         serializedVersion: 2
         x: 192
@@ -176,20 +176,20 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e365acff50e03ab42bc7862292ba3048
-      internalID: -319445288
+      spriteID: d06fd3363e1f10141bef0d99c8e3625f
+      internalID: 55877723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: run cycle sheet 1_4
+      name: Run Cycle (1)_4
       rect:
         serializedVersion: 2
         x: 256
@@ -197,20 +197,20 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be9573474d35fe54b924dbaa04c16eae
-      internalID: 428801108
+      spriteID: ff852d7e533d6374d9f1b8a59bef5739
+      internalID: 1707006670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: run cycle sheet 1_5
+      name: Run Cycle (1)_5
       rect:
         serializedVersion: 2
         x: 320
@@ -218,14 +218,98 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d9d33a9db72e884ebc8417b97183b8f
-      internalID: 7719459
+      spriteID: 8aae45484f5f3ea40b67864ad19acdaa
+      internalID: 1846344401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Cycle (1)_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fe4c87684b0e4468a179b382f612f9
+      internalID: -1104009642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Cycle (1)_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe4942c72cdd1048b29336ed176d0be
+      internalID: 1664805576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Cycle (1)_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f8100ca740c254d89444f93a14ad97
+      internalID: -224272676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Cycle (1)_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb8a45dd13132a498943fb6af07c334
+      internalID: -296007044
       vertices: []
       indices: 
       edges: []
@@ -241,12 +325,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      run cycle sheet 1_4: 428801108
-      run cycle sheet 1_3: -319445288
-      run cycle sheet 1_5: 7719459
-      run cycle sheet 1_0: 8735777
-      run cycle sheet 1_1: 464685051
-      run cycle sheet 1_2: 302367087
+      Run Cycle (1)_2: -1324667691
+      Run Cycle (1)_0: 433310461
+      Run Cycle (1)_6: -1104009642
+      Run Cycle (1)_9: -296007044
+      Run Cycle (1)_3: 55877723
+      Run Cycle (1)_1: 435051861
+      Run Cycle (1)_7: 1664805576
+      Run Cycle (1)_4: 1707006670
+      Run Cycle (1)_8: -224272676
+      Run Cycle (1)_5: 1846344401
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
