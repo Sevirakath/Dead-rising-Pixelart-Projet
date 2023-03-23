@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 304307db11a920740b3442a15d496598
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 5
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78edec9ae39a82e469bce2c71900a478
+      internalID: -268776742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 414
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685f8bf6d7a725d4289dd1c4225832de
+      internalID: -84384845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 414
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94189ec3846d4f646b72af394e8e71ed
+      internalID: -203642169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 414
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a115e346b86c7489d533c43bf20818
+      internalID: -1350084574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 414
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8607f456b9b184aaaa3edb4c47005b
+      internalID: 553124153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 414
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf82b862e74a5604190b70572fb3770d
+      internalID: -2043545506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 414
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496fc6e2cf8dbf04eaab90391757590a
+      internalID: 551990351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 414
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a7bb7e700145c499b05b117af04886
+      internalID: -627875514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 414
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edae1c536af931243a9b4383ff9a0679
+      internalID: -1499806056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b43bdbec7eca2d4a87d69e0aebf082e
+      internalID: -2029357958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 345
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88bc20f45c79f845852e1b91518e2e9
+      internalID: -67404153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 345
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9ffe8d7e0f6ea48af1f22ee9d07647
+      internalID: 1227514038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 345
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee0d94fc90a18043902b11597e182b8
+      internalID: -246616819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 345
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df5f0df8b8785e4dac107b651390e5c
+      internalID: -619427790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 345
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8194e79e3820d3a4a980da1e73c3cb80
+      internalID: 525550998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 345
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c566fd933e582499e8df401a2031fe
+      internalID: -1107185982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 345
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e48f537235fa34bafd409904e4947f
+      internalID: -812053148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 345
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5e2e4007f6a2343a1d4e1158b4531e
+      internalID: 374520254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c22246fc273a0545aae6e5a6c9cc9f8
+      internalID: -1228167856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 276
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c3bac466b3740418eb785ee0faa55b
+      internalID: 529961236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 276
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d954bd1c158fd3a4db030e0bd4031776
+      internalID: 1844824828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 276
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec50c3eb82faa8e489b10d31526b07fe
+      internalID: -431127837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 276
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2bc25922a287a4988b02b4010872ef
+      internalID: 568657827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 276
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf7787d77475d54c8966d48c6184752
+      internalID: -1017708793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 276
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf99f7f8545f1ca43a94e43a50559547
+      internalID: -1385426728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_25
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 276
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85a4200a1c82fd4f9cf1b16126ab454
+      internalID: 547970633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 276
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b630108a1e9f544b8208ab65db7ae52
+      internalID: 1692245704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8c3054d20722c469004950d518114a
+      internalID: -1608637481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 207
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a52e7528d28f41b7f5030b3c04dd5
+      internalID: -174264670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 207
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d439f21845d8cb9489080da62c12546e
+      internalID: -1054670001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 207
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eda6301b52c6041b11df9f6bf5e903
+      internalID: 1929416667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 207
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ad21e9b68d3f949ac273eeec7bb8f9
+      internalID: -1277026533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 207
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ac473561383f445a43c01a66149f79
+      internalID: -421128391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_33
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 207
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34751335d80ae746a1fc8a313d4f89c
+      internalID: -1444536871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 207
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7189a67d544b6be4da5a945d14a4cd94
+      internalID: 1341281470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_35
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 207
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287061d4063f340428c3b5ae32f0eb2e
+      internalID: -1253934253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06ab1e0f7c3f2d4e9212dbd1f7b5334
+      internalID: -833723212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 138
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdafecdc6806f2a46bf336996839fc5b
+      internalID: -157115587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 138
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315f384d7e66a624dbe93c95e5730c4d
+      internalID: 828662743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 138
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c67c43fa8c45a48ac03a7fa93c823b
+      internalID: -1621222779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 138
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070a5a4f6c089e94e83a88e751799204
+      internalID: -550654299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 138
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14557e3942a67947b8507f6cc7fed9c
+      internalID: 397877207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_42
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 138
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96533e37b340de446a532779d98de626
+      internalID: 2063908205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 138
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdadcbef0a5776c4f99e519f07c9909d
+      internalID: -727265448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 138
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674958d8cd82ada419f387c5133221c4
+      internalID: 1179536542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b0f3c69c4be9646a1e7d2bc95761d4
+      internalID: -90386376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 69
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f99be9b00b27f4da87ee7d1070f44e
+      internalID: -1854718664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 69
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e291aff8d9ac3624eaa337a8818cdae3
+      internalID: 548382837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_48
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 69
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3e5123dd9ef704596b5fa7461756fa
+      internalID: -1781710821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 69
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4315d7f71de1b9047b3776f507df8a6b
+      internalID: -1696244866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_50
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 69
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431b10967098c4e4282a438fb0884075
+      internalID: -1689019126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_51
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 69
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd4d268ba36c054da4c9b2532264042
+      internalID: 436544533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_52
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 69
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae96c4b55aab824f8dc630598909700
+      internalID: 1453366845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_53
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 69
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aadd3d7caf308449d5da034e45e6c5
+      internalID: -918508119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921d7303512be34429f31575955eae5b
+      internalID: 1853474739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bd0bdd3a3f3a4468b099d657c26418
+      internalID: -1386302465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b936bf5649f9fb4dab8d35274f550fb
+      internalID: -1473903063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_57
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8da97952a79504ab572ca1a84873a9
+      internalID: 1586106734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784f5885793a4304ba9ac6dc396c98b8
+      internalID: 658837656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamme poubelle_52x69_59
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65572bbd18c3248418fa423d40501f3b
+      internalID: 1223501358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Flamme poubelle_52x69_49: -1696244866
+      Flamme poubelle_52x69_16: -812053148
+      Flamme poubelle_52x69_19: 529961236
+      Flamme poubelle_52x69_15: -1107185982
+      Flamme poubelle_52x69_25: 547970633
+      Flamme poubelle_52x69_41: 397877207
+      Flamme poubelle_52x69_43: -727265448
+      Flamme poubelle_52x69_46: -1854718664
+      Flamme poubelle_52x69_34: 1341281470
+      Flamme poubelle_52x69_4: 553124153
+      Flamme poubelle_52x69_14: 525550998
+      Flamme poubelle_52x69_59: 1223501358
+      Flamme poubelle_52x69_0: -268776742
+      Flamme poubelle_52x69_28: -174264670
+      Flamme poubelle_52x69_48: -1781710821
+      Flamme poubelle_52x69_2: -203642169
+      Flamme poubelle_52x69_3: -1350084574
+      Flamme poubelle_52x69_33: -1444536871
+      Flamme poubelle_52x69_20: 1844824828
+      Flamme poubelle_52x69_54: 1853474739
+      Flamme poubelle_52x69_21: -431127837
+      Flamme poubelle_52x69_26: 1692245704
+      Flamme poubelle_52x69_45: -90386376
+      Flamme poubelle_52x69_18: -1228167856
+      Flamme poubelle_52x69_22: 568657827
+      Flamme poubelle_52x69_29: -1054670001
+      Flamme poubelle_52x69_39: -1621222779
+      Flamme poubelle_52x69_44: 1179536542
+      Flamme poubelle_52x69_50: -1689019126
+      Flamme poubelle_52x69_24: -1385426728
+      Flamme poubelle_52x69_7: -627875514
+      Flamme poubelle_52x69_32: -421128391
+      Flamme poubelle_52x69_11: 1227514038
+      Flamme poubelle_52x69_42: 2063908205
+      Flamme poubelle_52x69_10: -67404153
+      Flamme poubelle_52x69_9: -2029357958
+      Flamme poubelle_52x69_36: -833723212
+      Flamme poubelle_52x69_5: -2043545506
+      Flamme poubelle_52x69_47: 548382837
+      Flamme poubelle_52x69_6: 551990351
+      Flamme poubelle_52x69_12: -246616819
+      Flamme poubelle_52x69_51: 436544533
+      Flamme poubelle_52x69_57: 1586106734
+      Flamme poubelle_52x69_38: 828662743
+      Flamme poubelle_52x69_56: -1473903063
+      Flamme poubelle_52x69_13: -619427790
+      Flamme poubelle_52x69_1: -84384845
+      Flamme poubelle_52x69_8: -1499806056
+      Flamme poubelle_52x69_30: 1929416667
+      Flamme poubelle_52x69_53: -918508119
+      Flamme poubelle_52x69_55: -1386302465
+      Flamme poubelle_52x69_35: -1253934253
+      Flamme poubelle_52x69_27: -1608637481
+      Flamme poubelle_52x69_37: -157115587
+      Flamme poubelle_52x69_40: -550654299
+      Flamme poubelle_52x69_58: 658837656
+      Flamme poubelle_52x69_17: 374520254
+      Flamme poubelle_52x69_52: 1453366845
+      Flamme poubelle_52x69_31: -1277026533
+      Flamme poubelle_52x69_23: -1017708793
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
