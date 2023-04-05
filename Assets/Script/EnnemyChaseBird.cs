@@ -12,7 +12,7 @@ public class EnnemyChaseBird : MonoBehaviour
         transform.position = Vector3.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
         if (true)
         {
-            transform.position = new Vector3(transform.position.x, -3.47f, transform.position.z);
+            transform.position = new Vector3(transform.position.x,transform.position.y, transform.position.z);
         }
     }
 }
