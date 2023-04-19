@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: f7705f421c94c094192bb8796bd7936a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2790
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4d9640e64cf79449f60f020e0a5bb6
+      internalID: -139372290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_1
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2790
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e905bc9afe842be46863eb0d4a088190
+      internalID: 366631827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_2
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2790
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1d0852ad9a92e419aa1a4ef40f126d
+      internalID: 1833474264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_3
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 2790
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9953efc4511e84f8c16e4aa2f57c96
+      internalID: 687438328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_4
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2790
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa475178c7783bf4f9a0a2c329a90c58
+      internalID: -1079523954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_5
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2790
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93feab2955943b4487c9cc49d910e5c
+      internalID: -2036619050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_6
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 2790
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aee1dc1d7cb8d468c498256398df8d
+      internalID: 773515325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_7
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 2790
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4044a7779de57428613f58b9fc71b1
+      internalID: 1429346616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_8
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 2790
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be43a58c8873cc419e1fb9e0fa9d7ba
+      internalID: -12028765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2325
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ab13574d8a0ed4e9447eeaf52b1253
+      internalID: 986334964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2325
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be5d61b6430a26468d5031c1a229949
+      internalID: 2032621832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_11
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2325
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05478556984fa249b294ceffabdd740
+      internalID: 1353391210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_12
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 2325
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac59b1097fe19e6409181213f0f793ab
+      internalID: -1042836702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_13
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2325
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba148e27b65c0d4ca9e47c6b553e4f2
+      internalID: 2068297365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_14
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2325
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637bc72a2c02fb94a958716af0b7af87
+      internalID: 1782360529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_15
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 2325
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ca9917a82d45a498f0f459fb625890
+      internalID: 1662901764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_16
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 2325
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a0dd289798b6141bd1862fbcd1818b
+      internalID: -1652430446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_17
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 2325
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe3580630df6264a85a836e07066206
+      internalID: -1475458373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1860
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cba99684c5b963418a0cb753f80b1ae
+      internalID: -1881928589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1860
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63813310c9fcdc4cace1b307ee372f7
+      internalID: 328311240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_20
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1860
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1484165bbe709f04c8d76a7dc51317c0
+      internalID: -448197978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_21
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1860
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072f2d19006a7da46851dd7ce01583b8
+      internalID: 1936941040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_22
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1860
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b89eb94ccc4ff64bace308b87631ac9
+      internalID: -220537656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_23
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1860
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886e0aae52099d841bb71ddbb64764f1
+      internalID: -484117997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_24
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1860
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560897b8f84cba840a8babe85f04f562
+      internalID: -2135058293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_25
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 1860
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c36173e34d5de4fba43ed752f0a713
+      internalID: -2054194640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_26
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 1860
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421f9c4a2ea17e54f982127851b7875c
+      internalID: -631473352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1395
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c82f1c73d3c874fa4669713de0221d
+      internalID: 1015838821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_28
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1395
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bbcec1e62c32f41b0ef0d76ee26aa8
+      internalID: -1807660040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_29
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1395
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9da9f110f7bfdd46b684190f9983bbc
+      internalID: -1811894430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_30
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1395
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11571bc1913e3b4180a6544000612d8
+      internalID: -1593296161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_31
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1395
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904be3769cef1cd4880dccf52100ce29
+      internalID: -860701530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_32
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1395
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e11875094aa8474cb33a89c24aad443
+      internalID: -1126738663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_33
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1395
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b5a1e56deca074ba56fb3111722bad
+      internalID: 519000464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_34
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 1395
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5efd94698b3c4840925b20971621211
+      internalID: -716932716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_35
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 1395
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5264c75e40cb7554a94c59a35e69d209
+      internalID: 1227651226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fef3a8ca2824d4181d1297f196d7c9
+      internalID: 662478170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_37
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 930
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e659ac3dc709042b19c50b6f676f1b
+      internalID: -898779613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_38
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 930
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c688c06b11dee4585523c7e8d7ed40
+      internalID: -573180196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_39
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 930
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c2cdaf847288a408c050c0003e4584
+      internalID: 209092615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_40
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 930
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bec548232286148a3ce9f1ce38050e
+      internalID: -131335405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_41
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 930
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a79aa1760b65b4f873db8ca33ce5be
+      internalID: -1591491170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_42
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 930
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faefd5cdc80edfc40a26df177064a2ff
+      internalID: 1785542560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_43
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 930
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4998ce84231827244a79e0924b2170e8
+      internalID: -2116135322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_44
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 930
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9cf5d8b9dd796449ddd312fa1d6796
+      internalID: 1850088900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb26dffa4dc029a4183780ec3813412f
+      internalID: -602899243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_46
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 465
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7170321e07685fc41b917692e43b8e92
+      internalID: -1726897640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_47
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 465
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82728cf2f06681044835ee6f7833c7cb
+      internalID: 1498938068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_48
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 465
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46045b7720d88e8419afea7a84048b1c
+      internalID: -1584836725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_49
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 465
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbecd5b51b42744885bfb353b705fc2
+      internalID: -719323233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_50
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 465
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec75101f4e1b1bd40b2c65385d85c511
+      internalID: 1897865671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_51
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 465
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef12847982a81ff4f87f6c9dc292cbc2
+      internalID: 2024679177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_52
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 465
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6127ee436bec3114ea9ff09fd391a4b1
+      internalID: 1151945939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_53
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 465
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72b97c8d5782a24b9ce1f981de204cd
+      internalID: -1283575739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0fc8ba5c49f1c4e946ae561371ceb9
+      internalID: -1084680758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_55
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed34865f8001e44db9cd7115dbd6767
+      internalID: -345430085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_56
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 0
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbc23f1d1212984d98a78bf57a0a864
+      internalID: 1634624979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_57
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 0
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efda6813c7088f54ebc339af5034ed58
+      internalID: -1818085255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_58
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 0
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f286c15c470654280a093df72b80c4
+      internalID: -886970471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 417x465 Flamme batiment_417x465_59
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 0
+        width: 417
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92ef0baa600a6d4fac128d78e07327d
+      internalID: 769134062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      417x465 Flamme batiment_417x465_47: 1498938068
+      417x465 Flamme batiment_417x465_23: -484117997
+      417x465 Flamme batiment_417x465_41: -1591491170
+      417x465 Flamme batiment_417x465_35: 1227651226
+      417x465 Flamme batiment_417x465_46: -1726897640
+      417x465 Flamme batiment_417x465_16: -1652430446
+      417x465 Flamme batiment_417x465_8: -12028765
+      417x465 Flamme batiment_417x465_10: 2032621832
+      417x465 Flamme batiment_417x465_21: 1936941040
+      417x465 Flamme batiment_417x465_31: -860701530
+      417x465 Flamme batiment_417x465_1: 366631827
+      417x465 Flamme batiment_417x465_32: -1126738663
+      417x465 Flamme batiment_417x465_45: -602899243
+      417x465 Flamme batiment_417x465_37: -898779613
+      417x465 Flamme batiment_417x465_3: 687438328
+      417x465 Flamme batiment_417x465_0: -139372290
+      417x465 Flamme batiment_417x465_56: 1634624979
+      417x465 Flamme batiment_417x465_33: 519000464
+      417x465 Flamme batiment_417x465_36: 662478170
+      417x465 Flamme batiment_417x465_4: -1079523954
+      417x465 Flamme batiment_417x465_39: 209092615
+      417x465 Flamme batiment_417x465_49: -719323233
+      417x465 Flamme batiment_417x465_12: -1042836702
+      417x465 Flamme batiment_417x465_42: 1785542560
+      417x465 Flamme batiment_417x465_58: -886970471
+      417x465 Flamme batiment_417x465_17: -1475458373
+      417x465 Flamme batiment_417x465_57: -1818085255
+      417x465 Flamme batiment_417x465_28: -1807660040
+      417x465 Flamme batiment_417x465_6: 773515325
+      417x465 Flamme batiment_417x465_26: -631473352
+      417x465 Flamme batiment_417x465_11: 1353391210
+      417x465 Flamme batiment_417x465_5: -2036619050
+      417x465 Flamme batiment_417x465_7: 1429346616
+      417x465 Flamme batiment_417x465_22: -220537656
+      417x465 Flamme batiment_417x465_25: -2054194640
+      417x465 Flamme batiment_417x465_13: 2068297365
+      417x465 Flamme batiment_417x465_51: 2024679177
+      417x465 Flamme batiment_417x465_34: -716932716
+      417x465 Flamme batiment_417x465_54: -1084680758
+      417x465 Flamme batiment_417x465_30: -1593296161
+      417x465 Flamme batiment_417x465_14: 1782360529
+      417x465 Flamme batiment_417x465_55: -345430085
+      417x465 Flamme batiment_417x465_48: -1584836725
+      417x465 Flamme batiment_417x465_38: -573180196
+      417x465 Flamme batiment_417x465_9: 986334964
+      417x465 Flamme batiment_417x465_24: -2135058293
+      417x465 Flamme batiment_417x465_19: 328311240
+      417x465 Flamme batiment_417x465_15: 1662901764
+      417x465 Flamme batiment_417x465_59: 769134062
+      417x465 Flamme batiment_417x465_40: -131335405
+      417x465 Flamme batiment_417x465_20: -448197978
+      417x465 Flamme batiment_417x465_43: -2116135322
+      417x465 Flamme batiment_417x465_52: 1151945939
+      417x465 Flamme batiment_417x465_2: 1833474264
+      417x465 Flamme batiment_417x465_44: 1850088900
+      417x465 Flamme batiment_417x465_53: -1283575739
+      417x465 Flamme batiment_417x465_27: 1015838821
+      417x465 Flamme batiment_417x465_29: -1811894430
+      417x465 Flamme batiment_417x465_18: -1881928589
+      417x465 Flamme batiment_417x465_50: 1897865671
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
