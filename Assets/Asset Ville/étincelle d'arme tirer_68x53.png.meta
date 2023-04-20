@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 3c09fa9db93a19a458c9677365eae1a8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23e11734c7140c4382023f71d974d98
+      internalID: 409994669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_1"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 318
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b2746e9a318e4f86623ebf48838d6
+      internalID: -403983228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_2"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 318
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5c05880716f6c4c81e2e4f36c373e9
+      internalID: -461463432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_3"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 318
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1716c1b66bad4c4a91832bfd8bf1a6c
+      internalID: 441056226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_4"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 318
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b85755745dcc7744828950272f1f112
+      internalID: -754119302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_5"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 318
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f96b3a17549cee4aaea6cfff63b2d2e
+      internalID: 1448200847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_6"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 318
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff24f585ddc5247b29a211e351895e
+      internalID: -180519890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_7"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 318
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f2ccb4635b622499f650e713ce437f
+      internalID: -1726252540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_8"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 318
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1800dcca542ee1240b9aee3627c15042
+      internalID: -795483830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef01715c978f2a4d99e1a091cb49838
+      internalID: 609405641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_10"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 265
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d1c2b31ced69144838f90396a93ae6
+      internalID: -274782265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_11"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 265
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eba117dee1218419e97f8fbdafabda
+      internalID: -1948314655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_12"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 265
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f278beaddadb7d40906f4b524db4a5f
+      internalID: 479727751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_13"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 265
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6131b73b945239d43bac447cee1f3de6
+      internalID: 730165654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_14"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 265
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1e53a943d66f94b85d405a0024163f
+      internalID: 1130734060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_15"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 265
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e871573e65c0ce47ad525ed763cbd74
+      internalID: 2061215904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_16"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 265
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70657d369dd2274da7abc9dab80793c
+      internalID: -267073498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_17"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 265
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99da4e5787cb99445ac008227fefee9c
+      internalID: -1374476293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbaa0e4c42705e4396c8165aade2247
+      internalID: 1412347010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_19"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 212
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1bb23b5e70d4c4d919817e6a7ea5c7
+      internalID: 2056885773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_20"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 212
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbccb7ac40a80cb45b49436e6b1ab824
+      internalID: 1775545268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_21"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 212
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311158c0fc0ec4d40bc16dbef3fb993f
+      internalID: -1462795785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_22"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 212
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b74410396be2b4892d36f9dad1c005
+      internalID: -1444817413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_23"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 212
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4100d1d5e7a684f876bdbdc32e4947
+      internalID: -1567903261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_24"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 212
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cee96da20bc07a45a48a2a546a9d55c
+      internalID: -1203350889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_25"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 212
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867f22e9fc474ec42a4ccf9609bf8237
+      internalID: -1806610251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_26"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 212
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3d4a3702423ec48b07cf2629d12305
+      internalID: -2124313240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_27"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3148fba9fd048b4691dacb057423e27
+      internalID: -741058700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_28"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 159
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b068907ec191764483d5808b3c341a0
+      internalID: -99823767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_29"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 159
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3607a0159ed8a5d4e9207a132eca27d7
+      internalID: -1974446966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_30"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 159
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c01294bfbe34e4a91b2a391bf54191
+      internalID: 878414551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_31"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 159
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84edc24077685b9418941d767bc75673
+      internalID: -932079459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_32"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 159
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bcb220938238a4ab2028945164a5de
+      internalID: -678497647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_33"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 159
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec19ecf4ea9bd9e41ab649c6b966b46f
+      internalID: 466393246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_34"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 159
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69757cff16269441874afd1aec74b49
+      internalID: -707968701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_35"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 159
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0ffec5fc3c9e1449f4bcadc3e9a06c
+      internalID: -1123030107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa72b4018185284eab0815f367a39be
+      internalID: -20198391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_37"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 106
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8dfdae80878c4abc5aea44a4b2ba5
+      internalID: -217998580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_38"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 106
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b365036f4a64479489a18d44f62c6
+      internalID: -1544314950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_39"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 106
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c9eb8f8328e714fbc778b5a1725b5d
+      internalID: 1284999160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_40"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 106
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330ead6fd73566c4c8ef9d75e1f40462
+      internalID: -2128549880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_41"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 106
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504ea50dcd4e5ae488923b33a4ceb731
+      internalID: 366969207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_42"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 106
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f2f435928faeb409b89c07dd9d861c
+      internalID: 1480033412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_43"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 106
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7c02c6e6875f24e9521d526b0f19fb
+      internalID: -572252722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_44"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 106
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d9878a7b73e4d40889ce4286102ba0
+      internalID: -1381874782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_45"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d98b8d93513b0459a390b1482b506d
+      internalID: -1229864993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_46"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 53
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe11bdd86f0674283e562fa9748a04
+      internalID: -912556574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_47"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 53
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0a0ff3829839b49a484dee82111daa
+      internalID: 1242836880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_48"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 53
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735c5e92471610b4fa5153615fab8f04
+      internalID: -1627510119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_49"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 53
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bca13fb2a518d46b7eec2fce9003d6
+      internalID: -775948075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_50"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 53
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf4fb71c714daf4bbf16f2d4b0c60c1
+      internalID: 296616220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_51"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 53
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d99c100ee1e247964b7c859785f2a
+      internalID: 510029769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_52"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 53
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956d5cf6a4ed2b04a942f98b87506454
+      internalID: -1021700163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_53"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 53
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aced036bb22c348957cb44a7f848b5
+      internalID: -144476193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_54"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a0fb0fb908d29468cf7eec3af3e29c
+      internalID: -1682766049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_55"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba8c5ee600b4f945b7f3380ee6177fc
+      internalID: 1301550335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_56"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9e4a7207011cb448d0f627f34a2421
+      internalID: -287445870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_57"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2646f28fb449f46a5b3bf29cce9d8a
+      internalID: -1664699633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_58"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897264ad416facf42b1eebdb7a813a2c
+      internalID: 1626999825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE9tincelle d'arme tirer_68x53_59"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d0b7849aeb1e54aaf1cbbd9fd9cd41
+      internalID: -1683774727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\xE9tincelle d'arme tirer_68x53_11": -1948314655
+      "\xE9tincelle d'arme tirer_68x53_33": 466393246
+      "\xE9tincelle d'arme tirer_68x53_18": 1412347010
+      "\xE9tincelle d'arme tirer_68x53_35": -1123030107
+      "\xE9tincelle d'arme tirer_68x53_53": -144476193
+      "\xE9tincelle d'arme tirer_68x53_39": 1284999160
+      "\xE9tincelle d'arme tirer_68x53_12": 479727751
+      "\xE9tincelle d'arme tirer_68x53_42": 1480033412
+      "\xE9tincelle d'arme tirer_68x53_1": -403983228
+      "\xE9tincelle d'arme tirer_68x53_15": 2061215904
+      "\xE9tincelle d'arme tirer_68x53_31": -932079459
+      "\xE9tincelle d'arme tirer_68x53_36": -20198391
+      "\xE9tincelle d'arme tirer_68x53_37": -217998580
+      "\xE9tincelle d'arme tirer_68x53_22": -1444817413
+      "\xE9tincelle d'arme tirer_68x53_26": -2124313240
+      "\xE9tincelle d'arme tirer_68x53_4": -754119302
+      "\xE9tincelle d'arme tirer_68x53_59": -1683774727
+      "\xE9tincelle d'arme tirer_68x53_49": -775948075
+      "\xE9tincelle d'arme tirer_68x53_29": -1974446966
+      "\xE9tincelle d'arme tirer_68x53_9": 609405641
+      "\xE9tincelle d'arme tirer_68x53_2": -461463432
+      "\xE9tincelle d'arme tirer_68x53_23": -1567903261
+      "\xE9tincelle d'arme tirer_68x53_14": 1130734060
+      "\xE9tincelle d'arme tirer_68x53_20": 1775545268
+      "\xE9tincelle d'arme tirer_68x53_13": 730165654
+      "\xE9tincelle d'arme tirer_68x53_8": -795483830
+      "\xE9tincelle d'arme tirer_68x53_46": -912556574
+      "\xE9tincelle d'arme tirer_68x53_17": -1374476293
+      "\xE9tincelle d'arme tirer_68x53_34": -707968701
+      "\xE9tincelle d'arme tirer_68x53_52": -1021700163
+      "\xE9tincelle d'arme tirer_68x53_25": -1806610251
+      "\xE9tincelle d'arme tirer_68x53_3": 441056226
+      "\xE9tincelle d'arme tirer_68x53_38": -1544314950
+      "\xE9tincelle d'arme tirer_68x53_44": -1381874782
+      "\xE9tincelle d'arme tirer_68x53_10": -274782265
+      "\xE9tincelle d'arme tirer_68x53_57": -1664699633
+      "\xE9tincelle d'arme tirer_68x53_43": -572252722
+      "\xE9tincelle d'arme tirer_68x53_19": 2056885773
+      "\xE9tincelle d'arme tirer_68x53_50": 296616220
+      "\xE9tincelle d'arme tirer_68x53_30": 878414551
+      "\xE9tincelle d'arme tirer_68x53_48": -1627510119
+      "\xE9tincelle d'arme tirer_68x53_54": -1682766049
+      "\xE9tincelle d'arme tirer_68x53_58": 1626999825
+      "\xE9tincelle d'arme tirer_68x53_41": 366969207
+      "\xE9tincelle d'arme tirer_68x53_7": -1726252540
+      "\xE9tincelle d'arme tirer_68x53_21": -1462795785
+      "\xE9tincelle d'arme tirer_68x53_28": -99823767
+      "\xE9tincelle d'arme tirer_68x53_47": 1242836880
+      "\xE9tincelle d'arme tirer_68x53_56": -287445870
+      "\xE9tincelle d'arme tirer_68x53_16": -267073498
+      "\xE9tincelle d'arme tirer_68x53_40": -2128549880
+      "\xE9tincelle d'arme tirer_68x53_27": -741058700
+      "\xE9tincelle d'arme tirer_68x53_24": -1203350889
+      "\xE9tincelle d'arme tirer_68x53_55": 1301550335
+      "\xE9tincelle d'arme tirer_68x53_51": 510029769
+      "\xE9tincelle d'arme tirer_68x53_5": 1448200847
+      "\xE9tincelle d'arme tirer_68x53_0": 409994669
+      "\xE9tincelle d'arme tirer_68x53_32": -678497647
+      "\xE9tincelle d'arme tirer_68x53_45": -1229864993
+      "\xE9tincelle d'arme tirer_68x53_6": -180519890
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
