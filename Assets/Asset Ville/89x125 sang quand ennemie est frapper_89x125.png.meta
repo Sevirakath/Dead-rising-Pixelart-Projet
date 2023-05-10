@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -103,7 +103,805 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8887f1514f133f4b82fe0760d789376
+      internalID: -284203312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 750
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2dad83457e03347820936614b168f4
+      internalID: 668361870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 750
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd414b0a9f48b3440a2702316b3fa7ea
+      internalID: 1898914944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 750
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff5fc72f0fcb5e4a96dce86d7be9a67
+      internalID: -1940999900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 750
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d42b03ceba5ce40a1b99e879f57872
+      internalID: -2069112274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 750
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ad2b2a858396e4fbffd934240d00d7
+      internalID: -1248546955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 750
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecc2eeb4665dd345becfe77e6b3ad47
+      internalID: 111574885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_7
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 750
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079a0664e1ae06842913812734715c90
+      internalID: 797239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_8
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 750
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f46a2ec50aef4b468de76425bdea9c0
+      internalID: -2031179895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81ae69344e022a418f02bbd1c1904d6
+      internalID: -287557234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 625
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca6b1be824536e4c979f089c73efa9f
+      internalID: -1680160141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 625
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4928bf4547c9554aa805057d5f1ac6d
+      internalID: 1601349088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 625
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c912981268c380147b3929dc7bfd7ea3
+      internalID: 671673574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 625
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4893c1547172b0a4eba506664fa51419
+      internalID: 13214033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_14
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 625
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c727eba4ac40e74fa19a9ab61b6ce92
+      internalID: -1108329606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_15
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 625
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7738316626cb24a95c078f79ef4331
+      internalID: 1266717189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_16
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 625
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3ebeae1eff6d498ec906037681c41
+      internalID: 1134498852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_17
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 625
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4abaa3523a990b448462162781abec6
+      internalID: -1025565533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dbb0fedcaa6f44daa79815a5eb88d1
+      internalID: 1873274749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 500
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aff5cdb1f2a1b940b0838df3384aa68
+      internalID: 1449852903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 500
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae2a0e6bc96e7a47aed166d4e8d317a
+      internalID: 1499362429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 500
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f804d7d6631759419540326e174f939
+      internalID: -607557033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_22
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 500
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03ca832ea653a9469d25577721c59fe
+      internalID: 326079576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_23
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 500
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688d4ad028395984096979fc45abb940
+      internalID: -2010127736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_24
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 500
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09b9597ad725ef42ace9165c8db57f4
+      internalID: -1319908918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_25
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 500
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4fc8c4f977dab44831d266cdd4e4f2
+      internalID: -1591773967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_26
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 500
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667370f6fa9c79c41858eacfc4730ead
+      internalID: -2089331376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657212d58b51ea449b30cb570074063d
+      internalID: -1544362325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_28
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 375
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237558f6523e6b241a60d07f1f20fbde
+      internalID: 896513579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_29
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 375
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda0fe877d23b4d4c9acdd72d3d7a40d
+      internalID: -1726274576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 375
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7d057ef3696d94db511aea32dd75d9
+      internalID: -572545939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 375
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95463f07df392cb4cb298e59f379f0c2
+      internalID: 1508581867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_32
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 375
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f79f698de5f37448692dcd136fd735
+      internalID: 1159474515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_33
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 375
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b2fd8888cbbff4f98a16d9ef106069
+      internalID: 81230006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_34
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 375
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66563f5cc0a5f9f469ae45787a4eb6d7
+      internalID: -1512107109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_35
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 375
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b9e2d225d126947b9a6ad61c7bbf3e
+      internalID: -1874509033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1277050893e6ecb4b8a67306a52e469f
+      internalID: 1279900825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 89x125 sang quand ennemie est frapper_89x125_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 250
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d631a599ea0b05a47b2247297de0a144
+      internalID: -1723323637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +912,45 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      89x125 sang quand ennemie est frapper_89x125_3: -1940999900
+      89x125 sang quand ennemie est frapper_89x125_4: -2069112274
+      89x125 sang quand ennemie est frapper_89x125_16: 1134498852
+      89x125 sang quand ennemie est frapper_89x125_6: 111574885
+      89x125 sang quand ennemie est frapper_89x125_27: -1544362325
+      89x125 sang quand ennemie est frapper_89x125_20: 1499362429
+      89x125 sang quand ennemie est frapper_89x125_10: -1680160141
+      89x125 sang quand ennemie est frapper_89x125_7: 797239
+      89x125 sang quand ennemie est frapper_89x125_21: -607557033
+      89x125 sang quand ennemie est frapper_89x125_31: 1508581867
+      89x125 sang quand ennemie est frapper_89x125_11: 1601349088
+      89x125 sang quand ennemie est frapper_89x125_14: -1108329606
+      89x125 sang quand ennemie est frapper_89x125_24: -1319908918
+      89x125 sang quand ennemie est frapper_89x125_28: 896513579
+      89x125 sang quand ennemie est frapper_89x125_15: 1266717189
+      89x125 sang quand ennemie est frapper_89x125_30: -572545939
+      89x125 sang quand ennemie est frapper_89x125_0: -284203312
+      89x125 sang quand ennemie est frapper_89x125_36: 1279900825
+      89x125 sang quand ennemie est frapper_89x125_2: 1898914944
+      89x125 sang quand ennemie est frapper_89x125_22: 326079576
+      89x125 sang quand ennemie est frapper_89x125_37: -1723323637
+      89x125 sang quand ennemie est frapper_89x125_8: -2031179895
+      89x125 sang quand ennemie est frapper_89x125_29: -1726274576
+      89x125 sang quand ennemie est frapper_89x125_35: -1874509033
+      89x125 sang quand ennemie est frapper_89x125_34: -1512107109
+      89x125 sang quand ennemie est frapper_89x125_32: 1159474515
+      89x125 sang quand ennemie est frapper_89x125_5: -1248546955
+      89x125 sang quand ennemie est frapper_89x125_33: 81230006
+      89x125 sang quand ennemie est frapper_89x125_19: 1449852903
+      89x125 sang quand ennemie est frapper_89x125_17: -1025565533
+      89x125 sang quand ennemie est frapper_89x125_26: -2089331376
+      89x125 sang quand ennemie est frapper_89x125_1: 668361870
+      89x125 sang quand ennemie est frapper_89x125_25: -1591773967
+      89x125 sang quand ennemie est frapper_89x125_12: 671673574
+      89x125 sang quand ennemie est frapper_89x125_18: 1873274749
+      89x125 sang quand ennemie est frapper_89x125_9: -287557234
+      89x125 sang quand ennemie est frapper_89x125_13: 13214033
+      89x125 sang quand ennemie est frapper_89x125_23: -2010127736
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
