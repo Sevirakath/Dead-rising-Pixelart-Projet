@@ -6490,8 +6490,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 699139994}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.13, y: -68.41, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 11.3547, y: -68.0537, z: 0}
+  m_LocalScale: {x: 0.30069992, y: 0.35301003, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -25835,6 +25835,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   volumeTextValue: {fileID: 0}
   volumeSlider: {fileID: 0}
+  defaultVolume: 1
   confirmationPrompt: {fileID: 0}
   newGameLevel: Level1
   noSavedGameDialog: {fileID: 1401065012}
