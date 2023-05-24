@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTable_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 791c77fd297fd0f42ba683e551e2f139, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 23375360000
+    m_Localized: La Fin Du Survivant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18253108195328
+    m_Localized: Parametres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18289145655296
+    m_Localized: Sortir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18145356525568
+    m_Localized: Nouvelle Partie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18206064881664
+    m_Localized: Charger Partie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28594680606720
+    m_Localized: Graphique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28606990888960
+    m_Localized: Son
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28739598004224
+    m_Localized: Langages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29842196639744
+    m_Localized: Francais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29847296913408
+    m_Localized: Anglais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29848135774208
+    m_Localized: Russe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33196347994112
+    m_Localized: Veux-tu Commencer une nouvelle Partie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33323062112256
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33344708915200
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
