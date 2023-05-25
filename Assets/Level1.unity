@@ -235,7 +235,7 @@ GameObject:
   - component: {fileID: 32509866}
   m_Layer: 0
   m_Name: Route2 1 (9)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10634,7 +10634,7 @@ GameObject:
   - component: {fileID: 969259823}
   m_Layer: 0
   m_Name: Route2 (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10844,7 +10844,7 @@ GameObject:
   - component: {fileID: 1001350511}
   m_Layer: 0
   m_Name: Route2 (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17344,7 +17344,7 @@ GameObject:
   - component: {fileID: 1862682397}
   m_Layer: 0
   m_Name: Route2 1 (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22958,7 +22958,7 @@ GameObject:
   - component: {fileID: 1939118635}
   m_Layer: 0
   m_Name: Route2 1 (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
