@@ -86,6 +86,26 @@ MonoBehaviour:
     m_Localized: KHOROSHO
     m_Metadata:
       m_Items: []
+  - m_Id: 343228683890688
+    m_Localized: Nastroyki zvuka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343401204002816
+    m_Localized: Gromkost-
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343657459200000
+    m_Localized: Vosstanovleniye znacheniy po umolchaniyu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 348295646392320
+    m_Localized: Primenyat'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 348406078222336
+    m_Localized: Nazad
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

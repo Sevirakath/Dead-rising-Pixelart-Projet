@@ -83,6 +83,26 @@ MonoBehaviour:
     m_Key: ok
     m_Metadata:
       m_Items: []
+  - m_Id: 343228683890688
+    m_Key: Audio Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343401204002816
+    m_Key: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343657459200000
+    m_Key: reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 348295646392320
+    m_Key: Apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 348406078222336
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
