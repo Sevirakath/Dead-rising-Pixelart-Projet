@@ -71,6 +71,18 @@ MonoBehaviour:
     m_Key: No
     m_Metadata:
       m_Items: []
+  - m_Id: 283401517510656
+    m_Key: 'Are you sure you want to load this file ? '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 285568974434304
+    m_Key: No save file found
+    m_Metadata:
+      m_Items: []
+  - m_Id: 285782514839552
+    m_Key: ok
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

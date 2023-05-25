@@ -74,6 +74,18 @@ MonoBehaviour:
     m_Localized: Net
     m_Metadata:
       m_Items: []
+  - m_Id: 283401517510656
+    m_Localized: Vy uvereny, chto khotite zagruzit' etot fayl?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 285568974434304
+    m_Localized: Ne nayden fayl sokhraneniya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 285782514839552
+    m_Localized: KHOROSHO
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

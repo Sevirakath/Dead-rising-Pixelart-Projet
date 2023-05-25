@@ -16,7 +16,11 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 1181fa79dd179854097fd994bf40af78
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 2039638c38d2bee4487def0738023f29
+    m_Address: Assets/New Physics Material 2D.physicsMaterial2D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 07307995179648c4ebe8bcbfc36ef8a4, type: 2}
   m_SchemaSet:

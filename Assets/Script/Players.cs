@@ -9,12 +9,12 @@ public class Players : MonoBehaviour
     float horizontal_value;
     Vector2 ref_velocity = Vector2.zero;
 
-    float jumpForce = 12f;
+    float jumpForce = 4f;
 
     [SerializeField] float moveSpeed_horizontal = 400.0f;
-    [SerializeField] bool is_jumping = false;
-    [SerializeField] bool can_jump = false;
-    [Range(0, 1)] [SerializeField] float smooth_time = 0.5f;
+    bool is_jumping = false;
+    bool can_jump = false;
+    [Range(0, 1)] [SerializeField] float smooth_time = 0.1f;
     Animator animController;
 
     // Start is called before the first frame update
@@ -23,7 +23,6 @@ public class Players : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         animController = GetComponent<Animator>();
-        //Debug.Log(Mathf.Lerp(current, target, 0));
     }
 
     // Update is called once per frame
@@ -31,8 +30,10 @@ public class Players : MonoBehaviour
     {
         horizontal_value = Input.GetAxis("Horizontal");
 
-        if (horizontal_value > 0) sr.flipX = false;
-        else if (horizontal_value < 0) sr.flipX = true;
+        if (horizontal_value > 0)
+            sr.flipX = false;
+        else if (horizontal_value < 0)
+            sr.flipX = true;
 
         if (Input.GetButtonDown("Jump") && can_jump)
         {
@@ -48,8 +49,18 @@ public class Players : MonoBehaviour
             rb.AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
             can_jump = false;
         }
+
         Vector2 target_velocity = new Vector2(horizontal_value * moveSpeed_horizontal * Time.fixedDeltaTime, rb.velocity.y);
         rb.velocity = Vector2.SmoothDamp(rb.velocity, target_velocity, ref ref_velocity, 0.05f);
+        rb.velocity = Vector2.ClampMagnitude(rb.velocity, 30);
+
+    }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            can_jump = true;
+        }
     }
 }
-

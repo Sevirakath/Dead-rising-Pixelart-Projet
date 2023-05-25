@@ -74,6 +74,18 @@ MonoBehaviour:
     m_Localized: No
     m_Metadata:
       m_Items: []
+  - m_Id: 283401517510656
+    m_Localized: 'Are you sure you want to load this file ? '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 285568974434304
+    m_Localized: No save file found
+    m_Metadata:
+      m_Items: []
+  - m_Id: 285782514839552
+    m_Localized: "Ok\t\t\t\t\t\t"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
