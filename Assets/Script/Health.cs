@@ -1,20 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Health : MonoBehaviour
 {
-    public float pv = 100;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public int pv; // Health value
 
-    // Update is called once per frame
-    void Update()
-    {
-     
-    }
-    
+    // Other methods and variables related to health can be added here
 }

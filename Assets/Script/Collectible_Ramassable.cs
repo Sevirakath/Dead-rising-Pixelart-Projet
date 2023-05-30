@@ -1,39 +1,38 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Collectible_Ramassable : MonoBehaviour
 {
-    private GameObject playerRef;
+    public int healAmount = 10;
+    public KeyCode collectKey = KeyCode.E;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    private bool canCollect = false;
 
-    // Update is called once per frame
-    void Update()
+    private void OnTriggerEnter(Collider other)
     {
-        PickUpPotion();
-    }
-
-    void PickUpPotion()
-    {
-        if (playerRef && Input.GetKeyDown(KeyCode.E))
+        if (other.CompareTag("Player"))
         {
-            playerRef.GetComponentInChildren<Health>().pv += 10;
-            Destroy(gameObject);
+            canCollect = true;
         }
     }
 
-    void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerExit(Collider other)
     {
-        playerRef = collision.gameObject;
+        if (other.CompareTag("Player"))
+        {
+            canCollect = false;
+        }
     }
 
-    void OnTriggerExit2D(Collider2D collision)
+    private void Update()
     {
-        playerRef = null;
+        if (canCollect && Input.GetKeyDown(collectKey))
+        {
+            PlayerHealth playerHealth = FindObjectOfType<PlayerHealth>();
+            if (playerHealth != null)
+            {
+                playerHealth.Heal(healAmount);
+                Destroy(gameObject);
+            }
+        }
     }
 }
