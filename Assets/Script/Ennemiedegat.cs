@@ -1,18 +1,15 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class NewBehaviourScript : MonoBehaviour
+public class Personnage : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public int pointsDeVie = 100;
 
-    // Update is called once per frame
-    void Update()
+    public void RecevoirDegats(int degats)
     {
-        
+        pointsDeVie -= degats;
+
+        if (pointsDeVie <= 0)
+        {
+            // Le personnage est mort, ajoutez ici la logique appropriée
+            // comme afficher un écran de fin de jeu ou réinitialiser le niveau.
+        }
     }
-}
+}   
