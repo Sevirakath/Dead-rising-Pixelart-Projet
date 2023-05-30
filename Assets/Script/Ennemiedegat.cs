@@ -1,4 +1,6 @@
-public class Personnage : MonoBehaviour
+using UnityEngine;
+
+public class PlayerCharacter : MonoBehaviour
 {
     public int pointsDeVie = 100;
 
@@ -12,4 +14,4 @@ public class Personnage : MonoBehaviour
             // comme afficher un écran de fin de jeu ou réinitialiser le niveau.
         }
     }
-}   
+}
