@@ -23,8 +23,7 @@ public class MenuController1 : MonoBehaviour
     private bool _isFullScreen;
     private float _brightnessLevel;
 
-
-     [Header("Levels to Load")]
+    [Header("Levels to Load")]
     public string newGameLevel;
     private string levelToLoad;
     [SerializeField] private GameObject noSavedGameDialog = null;
@@ -33,16 +32,15 @@ public class MenuController1 : MonoBehaviour
     public TMP_Dropdown resolutionDropdown;
     private Resolution[] resolutions;
 
-    privte void Start()
+    private void Start()
     {
-        resolutions = _isFullScreen.resolutions;
+        resolutions = Screen.resolutions;
         resolutionDropdown.ClearOptions();
 
         List<string> options = new List<string>();
-
         int currentResolutionIndex = 0;
 
-        for (int i = 0; 1 < resolutions.Length; i++)
+        for (int i = 0; i < resolutions.Length; i++)
         {
             string option = resolutions[i].width + " x " + resolutions[i].height;
             options.Add(option);
@@ -52,17 +50,18 @@ public class MenuController1 : MonoBehaviour
                 currentResolutionIndex = i;
             }
         }
+
+        resolutionDropdown.AddOptions(options);
+        resolutionDropdown.value = currentResolutionIndex;
+        resolutionDropdown.RefreshShownValue();
     }
 
     public void SetResolution(int resolutionIndex)
     {
-        Resolutin resolution = resolutions[resolutionIndex];
-        Screen.SetResolution(resolution.width, resolution.height, Set.fullScreen);
+        Resolution resolution = resolutions[resolutionIndex];
+        Screen.SetResolution(resolution.width, resolution.height, Screen.fullScreen);
     }
-        resolutionDropdown.AddOptions(options);
-        resolutionDropdown.value = currentResolutionIndex;
-        resolutionDropdown.RefreshShonValue();
-    }
+
     public void NewGameDialogYes()
     {
         SceneManager.LoadScene(newGameLevel);
@@ -111,29 +110,29 @@ public class MenuController1 : MonoBehaviour
     public void GraphicsApply()
     {
         PlayerPrefs.SetFloat("masterBrightness", _brightnessLevel);
-        //change your brightness with your post processing
+        // change your brightness with your post-processing
 
         PlayerPrefs.SetInt("masterQuality", _qualityLevel);
         QualitySettings.SetQualityLevel(_qualityLevel);
 
         PlayerPrefs.SetInt("masterFullscreen", (_isFullScreen ? 1 : 0));
-        _isFullScreen.fullScreen = _isFullScreen;
+        Screen.fullScreen = _isFullScreen;
 
         StartCoroutine(ConfirmationBox());
     }
 
     public void VolumeApply()
     {
-        float volume = volumeSlider.value;    
+        float volume = volumeSlider.value;
         AudioListener.volume = volume;
         volumeTextValue.text = volume.ToString("0.0");
         PlayerPrefs.SetFloat("masterVolume", volume);
         StartCoroutine(ConfirmationBox());
     }
 
-    public void ResetButton(string MenuType)
+    public void ResetButton(string menuType)
     {
-        if(MenuType== "Audio")
+        if (menuType == "Audio")
         {
             AudioListener.volume = defaultVolume;
             volumeSlider.value = defaultVolume;
