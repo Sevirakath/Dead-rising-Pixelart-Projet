@@ -32,6 +32,13 @@ public class MenuController1 : MonoBehaviour
     public TMP_Dropdown resolutionDropdown;
     private Resolution[] resolutions;
 
+    private int selectedButtonIndex = 0;
+    private bool controllerInUse = false;
+
+    public GameObject[] buttons;
+    public Color selectedColor = Color.red;
+    public Color defaultColor = Color.white;
+
     private void Start()
     {
         resolutions = Screen.resolutions;
@@ -146,5 +153,48 @@ public class MenuController1 : MonoBehaviour
         confirmationPrompt.SetActive(true);
         yield return new WaitForSeconds(2);
         confirmationPrompt.SetActive(false);
+    }
+
+    private void Update()
+    {
+        // Check if a controller is connected
+        if (Input.GetJoystickNames().Length > 0)
+        {
+            // Get controller input
+            float verticalInput = Input.GetAxis("Vertical");
+
+            if (Mathf.Abs(verticalInput) > 0.1f && !controllerInUse)
+            {
+                // Change selected button based on controller input
+                selectedButtonIndex -= (int)Mathf.Sign(verticalInput);
+                selectedButtonIndex = Mathf.Clamp(selectedButtonIndex, 0, buttons.Length - 1);
+                UpdateButtonColors();
+
+                controllerInUse = true;
+            }
+            else if (Mathf.Abs(verticalInput) < 0.1f)
+            {
+                controllerInUse = false;
+            }
+
+            // Check for button press
+            if (Input.GetButtonDown("Submit"))
+            {
+                // Execute the action associated with the selected button
+                buttons[selectedButtonIndex].GetComponent<Button>().onClick.Invoke();
+            }
+        }
+    }
+
+    private void UpdateButtonColors()
+    {
+        // Reset all buttons to default color
+        foreach (GameObject button in buttons)
+        {
+            button.GetComponent<Image>().color = defaultColor;
+        }
+
+        // Set selected button color
+        buttons[selectedButtonIndex].GetComponent<Image>().color = selectedColor;
     }
 }
