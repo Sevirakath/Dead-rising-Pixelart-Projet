@@ -1,39 +1,37 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Collectible_Ramassable : MonoBehaviour
 {
     private GameObject playerRef;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        PickUpPotion();
-    }
-
     void PickUpPotion()
     {
         if (playerRef && Input.GetKeyDown(KeyCode.E))
         {
-            playerRef.GetComponentInChildren<Health>().pv += 10;
+            Health playerHealth = playerRef.GetComponent<Health>();
+            if (playerHealth != null)
+            {
+                playerHealth.pv += 10;
+            }
             Destroy(gameObject);
         }
     }
 
-    void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        playerRef = collision.gameObject;
+        if (collision.CompareTag("Player"))
+        {
+            playerRef = collision.gameObject;
+        }
     }
 
-    void OnTriggerExit2D(Collider2D collision)
+    private void OnTriggerExit2D(Collider2D collision)
     {
-        playerRef = null;
+        if (collision.CompareTag("Player") && collision.gameObject == playerRef)
+        {
+            playerRef = null;
+        }
     }
+
+    // Remove the Start and Update methods if they are not used for anything else in your script.
 }
