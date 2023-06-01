@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Light
   - Ground
+  - MenuButton
   layers:
   - Default
   - TransparentFX

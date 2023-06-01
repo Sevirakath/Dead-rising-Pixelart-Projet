@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -34,10 +35,14 @@ public class MenuController1 : MonoBehaviour
 
     private int selectedButtonIndex = 0;
     private bool controllerInUse = false;
+    private bool isPopupOpen = false;
 
     public GameObject[] buttons;
     public Color selectedColor = Color.red;
     public Color defaultColor = Color.white;
+
+    // Déclaration d'un événement pour la fenêtre contextuelle
+    public event Action<bool> PopupStateChanged;
 
     private void Start()
     {
@@ -163,7 +168,7 @@ public class MenuController1 : MonoBehaviour
             // Get controller input
             float verticalInput = Input.GetAxis("Vertical");
 
-            if (Mathf.Abs(verticalInput) > 0.1f && !controllerInUse)
+            if (!isPopupOpen && Mathf.Abs(verticalInput) > 0.1f && !controllerInUse)
             {
                 // Change selected button based on controller input
                 selectedButtonIndex -= (int)Mathf.Sign(verticalInput);
@@ -178,7 +183,7 @@ public class MenuController1 : MonoBehaviour
             }
 
             // Check for button press
-            if (Input.GetButtonDown("Submit"))
+            if (!isPopupOpen && Input.GetButtonDown("Submit"))
             {
                 // Execute the action associated with the selected button
                 buttons[selectedButtonIndex].GetComponent<Button>().onClick.Invoke();
@@ -191,10 +196,21 @@ public class MenuController1 : MonoBehaviour
         // Reset all buttons to default color
         foreach (GameObject button in buttons)
         {
-            button.GetComponent<Image>().color = defaultColor;
+            if (button != null)
+                button.GetComponent<Image>().color = defaultColor;
         }
 
         // Set selected button color
         buttons[selectedButtonIndex].GetComponent<Image>().color = selectedColor;
     }
+
+    // Méthode pour activer/désactiver la fenêtre contextuelle
+    public void TogglePopup(bool isOpen)
+    {
+        isPopupOpen = isOpen;
+
+        // Déclencher l'événement pour notifier les autres objets
+        PopupStateChanged?.Invoke(isOpen);
+    }
 }
+
