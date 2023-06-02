@@ -7,12 +7,12 @@ TagManager:
   - Light
   - Ground
   - MenuButton
-  - Items
+  - Item
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Items
+  - itemLayer
   - Water
   - UI
   - 

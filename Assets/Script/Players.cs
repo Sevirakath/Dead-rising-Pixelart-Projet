@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class Players : MonoBehaviour
@@ -14,6 +16,9 @@ public class Players : MonoBehaviour
     bool can_jump = false;
     [Range(0, 1)] [SerializeField] float smooth_time = 0.1f;
     Animator animController;
+
+    [SerializeField] Transform hand; // Référence au transform de la main du joueur
+    private GameObject heldItem; // Référence à l'objet tenu
 
     // Start is called before the first frame update
     void Start()
@@ -36,6 +41,11 @@ public class Players : MonoBehaviour
         if (Input.GetButtonDown("Jump") && can_jump)
         {
             is_jumping = true;
+        }
+
+        if (Input.GetKeyDown(KeyCode.E) && heldItem == null)
+        {
+            PickUpItem();
         }
     }
 
@@ -61,14 +71,35 @@ public class Players : MonoBehaviour
         }
     }
 
-    void OnTriggerStay2D(Collider2D collision)
+    void OnTriggerEnter2D(Collider2D other)
     {
-        if (collision.gameObject.CompareTag("Item"))
+        if (other.CompareTag("Item"))
         {
-            Item item = collision.gameObject.GetComponent<Item>();
-            if (item != null && !item.isCarried && Input.GetKeyDown(KeyCode.E))
+            Item item = other.GetComponent<Item>();
+            if (item != null && !item.IsCarried)
             {
-                item.PickUp(transform);
+                Debug.Log("Item picked up: " + item.name);
+                heldItem = item.gameObject;
+                item.PickUp(hand);
+            }
+        }
+    }
+
+    private void PickUpItem()
+    {
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position, 1f);
+        foreach (Collider2D collider in colliders)
+        {
+            if (collider.CompareTag("Item"))
+            {
+                Item item = collider.GetComponent<Item>();
+                if (item != null && !item.IsCarried)
+                {
+                    Debug.Log("Item picked up: " + item.name);
+                    heldItem = item.gameObject;
+                    item.PickUp(hand);
+                    break;
+                }
             }
         }
     }

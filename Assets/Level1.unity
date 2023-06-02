@@ -168,9 +168,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6c54021c904544a8ba5cc284f7191d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speeda: 5
+  distancea: 2
+  movingRight: 1
   groundDetection: {fileID: 0}
   target: {fileID: 0}
   speedb: 5
+  distancemax: 10
+  atckType1: 1
 --- !u!212 &25904440
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2265,9 +2270,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6c54021c904544a8ba5cc284f7191d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speeda: 5
+  distancea: 2
+  movingRight: 1
   groundDetection: {fileID: 0}
   target: {fileID: 0}
   speedb: 5
+  distancemax: 10
+  atckType1: 1
 --- !u!212 &141860234
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2350,14 +2360,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 142255252}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.0033296421, z: -0, w: 0.9999945}
   m_LocalPosition: {x: -42.77, y: -69.01, z: 0}
   m_LocalScale: {x: 4.614105, y: 4.614105, z: 4.614105}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0.382, z: 0}
 --- !u!95 &142255254
 Animator:
   serializedVersion: 5
@@ -2392,10 +2402,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed_horizontal: 600
   smooth_time: 0.168
-  pickUpRange: 1
-  itemLayer:
-    serializedVersion: 2
-    m_Bits: 8
+  hand: {fileID: 0}
 --- !u!50 &142255256
 Rigidbody2D:
   serializedVersion: 4
@@ -2488,7 +2495,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 4
+  m_SortingOrder: 2
   m_Sprite: {fileID: 120959185, guid: 2da6f939b3b606b46baa54907161afb7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4591,9 +4598,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6c54021c904544a8ba5cc284f7191d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speeda: 5
+  distancea: 2
+  movingRight: 1
   groundDetection: {fileID: 0}
   target: {fileID: 0}
   speedb: 5
+  distancemax: 10
+  atckType1: 1
 --- !u!212 &331956307
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4715,9 +4727,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6c54021c904544a8ba5cc284f7191d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speeda: 5
+  distancea: 2
+  movingRight: 1
   groundDetection: {fileID: 2129725810}
   target: {fileID: 142255253}
   speedb: 5
+  distancemax: 10
+  atckType1: 1
 --- !u!212 &359658212
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6605,7 +6622,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!70 &566909260
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -7603,9 +7620,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6c54021c904544a8ba5cc284f7191d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speeda: 5
+  distancea: 2
+  movingRight: 1
   groundDetection: {fileID: 320619301}
   target: {fileID: 142255253}
   speedb: 12
+  distancemax: 10
+  atckType1: 1
 --- !u!212 &700780602
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9859,9 +9881,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6c54021c904544a8ba5cc284f7191d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speeda: 5
+  distancea: 2
+  movingRight: 1
   groundDetection: {fileID: 0}
   target: {fileID: 0}
   speedb: 5
+  distancemax: 10
+  atckType1: 1
 --- !u!212 &969259822
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10069,9 +10096,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6c54021c904544a8ba5cc284f7191d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speeda: 5
+  distancea: 2
+  movingRight: 1
   groundDetection: {fileID: 0}
   target: {fileID: 0}
   speedb: 5
+  distancemax: 10
+  atckType1: 1
 --- !u!212 &1001350512
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11281,9 +11313,10 @@ GameObject:
   - component: {fileID: 1203206187}
   - component: {fileID: 1203206186}
   - component: {fileID: 1203206188}
-  m_Layer: 3
+  - component: {fileID: 1203206189}
+  m_Layer: 0
   m_Name: Bat
-  m_TagString: Untagged
+  m_TagString: Item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11328,7 +11361,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 45eaadab79181b94d94a0d39aea1adf0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11347,14 +11380,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1203206185}
-  m_LocalRotation: {x: -0, y: -0, z: -0.19568446, w: 0.98066694}
-  m_LocalPosition: {x: -36.48, y: -69.27, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0.19631647, w: 0.98054063}
+  m_LocalPosition: {x: -36.7, y: -69.33, z: 0}
   m_LocalScale: {x: 0.25754, y: 0.25754, z: 0.25754}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 58
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -22.569}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -22.643}
 --- !u!114 &1203206188
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11367,6 +11400,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c72c0546db298954cbfeed17d75f2ce0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!70 &1203206189
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1203206185}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.14097469, y: -0.12919286}
+  m_Size: {x: 6.614857, y: 7.207641}
+  m_Direction: 0
 --- !u!1 &1203378775
 GameObject:
   m_ObjectHideFlags: 0
@@ -11664,9 +11713,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6c54021c904544a8ba5cc284f7191d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speeda: 5
+  distancea: 2
+  movingRight: 1
   groundDetection: {fileID: 0}
   target: {fileID: 0}
   speedb: 5
+  distancemax: 10
+  atckType1: 1
 --- !u!212 &1219501556
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20788,7 +20842,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1959338495}
   - component: {fileID: 1959338494}
-  - component: {fileID: 1959338493}
   m_Layer: 0
   m_Name: zombie3 menu
   m_TagString: Untagged
@@ -20796,14 +20849,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &1959338493
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1959338492}
-  m_Enabled: 1
 --- !u!82 &1959338494
 AudioSource:
   m_ObjectHideFlags: 0
@@ -21773,9 +21818,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6c54021c904544a8ba5cc284f7191d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speeda: 5
+  distancea: 2
+  movingRight: 1
   groundDetection: {fileID: 0}
   target: {fileID: 0}
   speedb: 5
+  distancemax: 10
+  atckType1: 1
 --- !u!61 &2129725812
 BoxCollider2D:
   m_ObjectHideFlags: 0
