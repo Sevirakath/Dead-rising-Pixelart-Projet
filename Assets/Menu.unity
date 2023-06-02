@@ -153,9 +153,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6c54021c904544a8ba5cc284f7191d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  groundDetection: {fileID: 1785343740}
-  target: {fileID: 0}
-  speedb: 12
 --- !u!212 &16416661
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -60438,9 +60435,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6c54021c904544a8ba5cc284f7191d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  groundDetection: {fileID: 2134823917}
-  target: {fileID: 0}
-  speedb: 12
 --- !u!212 &2073284108
 SpriteRenderer:
   m_ObjectHideFlags: 0
