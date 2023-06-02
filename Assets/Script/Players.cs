@@ -17,6 +17,11 @@ public class Players : MonoBehaviour
     [Range(0, 1)] [SerializeField] float smooth_time = 0.1f;
     Animator animController;
 
+    // Picking up items
+    public float pickUpRange = 1f;
+    public LayerMask itemLayer;
+    private List<Item> carriedItems = new List<Item>();
+
     // Start is called before the first frame update
     void Start()
     {
@@ -39,6 +44,11 @@ public class Players : MonoBehaviour
         {
             is_jumping = true;
         }
+
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            PickUpItem();
+        }
     }
 
     void FixedUpdate()
@@ -51,7 +61,7 @@ public class Players : MonoBehaviour
         }
 
         Vector2 target_velocity = new Vector2(horizontal_value * moveSpeed_horizontal * Time.fixedDeltaTime, rb.velocity.y);
-        rb.velocity = Vector2.SmoothDamp(rb.velocity, target_velocity, ref ref_velocity, 0.05f);
+        rb.velocity = Vector2.SmoothDamp(rb.velocity, target_velocity, ref ref_velocity, smooth_time);
         rb.velocity = Vector2.ClampMagnitude(rb.velocity, 30);
 
     }
@@ -61,6 +71,20 @@ public class Players : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             can_jump = true;
+        }
+    }
+
+    void PickUpItem()
+    {
+        Collider2D[] itemColliders = Physics2D.OverlapCircleAll(transform.position, pickUpRange, itemLayer);
+        foreach (Collider2D itemCollider in itemColliders)
+        {
+            Item item = itemCollider.GetComponent<Item>();
+            if (item != null && !item.isCarried)
+            {
+                item.PickUp(transform);
+                carriedItems.Add(item);
+            }
         }
     }
 }

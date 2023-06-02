@@ -4,7 +4,12 @@ public class Collectible_Ramassable : MonoBehaviour
 {
     private GameObject playerRef;
 
-    void PickUpPotion()
+    private void Update()
+    {
+        PickUpPotion();
+    }
+
+    private void PickUpPotion()
     {
         if (playerRef && Input.GetKeyDown(KeyCode.E))
         {
@@ -32,6 +37,4 @@ public class Collectible_Ramassable : MonoBehaviour
             playerRef = null;
         }
     }
-
-    // Remove the Start and Update methods if they are not used for anything else in your script.
 }
