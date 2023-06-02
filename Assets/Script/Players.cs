@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Players : MonoBehaviour
@@ -16,11 +14,6 @@ public class Players : MonoBehaviour
     bool can_jump = false;
     [Range(0, 1)] [SerializeField] float smooth_time = 0.1f;
     Animator animController;
-
-    // Picking up items
-    public float pickUpRange = 1f;
-    public LayerMask itemLayer;
-    private List<Item> carriedItems = new List<Item>();
 
     // Start is called before the first frame update
     void Start()
@@ -44,11 +37,6 @@ public class Players : MonoBehaviour
         {
             is_jumping = true;
         }
-
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            PickUpItem();
-        }
     }
 
     void FixedUpdate()
@@ -63,7 +51,6 @@ public class Players : MonoBehaviour
         Vector2 target_velocity = new Vector2(horizontal_value * moveSpeed_horizontal * Time.fixedDeltaTime, rb.velocity.y);
         rb.velocity = Vector2.SmoothDamp(rb.velocity, target_velocity, ref ref_velocity, smooth_time);
         rb.velocity = Vector2.ClampMagnitude(rb.velocity, 30);
-
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -74,16 +61,14 @@ public class Players : MonoBehaviour
         }
     }
 
-    void PickUpItem()
+    void OnTriggerStay2D(Collider2D collision)
     {
-        Collider2D[] itemColliders = Physics2D.OverlapCircleAll(transform.position, pickUpRange, itemLayer);
-        foreach (Collider2D itemCollider in itemColliders)
+        if (collision.gameObject.CompareTag("Item"))
         {
-            Item item = itemCollider.GetComponent<Item>();
-            if (item != null && !item.isCarried)
+            Item item = collision.gameObject.GetComponent<Item>();
+            if (item != null && !item.isCarried && Input.GetKeyDown(KeyCode.E))
             {
                 item.PickUp(transform);
-                carriedItems.Add(item);
             }
         }
     }
