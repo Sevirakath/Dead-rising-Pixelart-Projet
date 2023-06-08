@@ -20,12 +20,18 @@ public class Players : MonoBehaviour
     [SerializeField] Transform hand; // Référence au transform de la main du joueur
     private GameObject heldItem; // Référence à l'objet tenu
 
+    bool isBatPlayer = false;
+    Sprite originalSprite;
+    [SerializeField] Sprite batSprite; // Référence au sprite du joueur avec la batte
+
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         animController = GetComponent<Animator>();
+
+        originalSprite = sr.sprite; // Sauvegarder le sprite original du joueur
     }
 
     // Update is called once per frame
@@ -47,6 +53,9 @@ public class Players : MonoBehaviour
         {
             PickUpItem();
         }
+
+        // Contrôler l'Animator pour l'état avec ou sans la batte
+        animController.SetBool("HasBat", isBatPlayer);
     }
 
     void FixedUpdate()
@@ -82,6 +91,23 @@ public class Players : MonoBehaviour
                 heldItem = item.gameObject;
                 item.PickUp(hand);
             }
+        }
+
+        if (other.CompareTag("Item"))
+        {
+            // Changer le sprite du joueur pour le sprite de la batte
+            sr.sprite = batSprite;
+            isBatPlayer = true;
+        }
+    }
+
+    void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Item"))
+        {
+            // Rétablir le sprite original du joueur
+            sr.sprite = originalSprite;
+            isBatPlayer = false;
         }
     }
 
